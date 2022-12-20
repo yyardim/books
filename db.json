@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Black Tower I",
+      "id": 1
+    },
+    {
+      "title": "Seda Uge Yardim",
+      "id": 2
+    },
+    {
+      "title": "Meraklinin Guncesi",
+      "id": 3
+    },
+    {
+      "title": "Test Book",
+      "id": 4
+    },
+    {
+      "title": "Test book 2a",
+      "id": 5
+    }
+  ]
+}
